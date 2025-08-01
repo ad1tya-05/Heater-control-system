@@ -26,7 +26,7 @@ This is a basic heater control system built using Arduino. It uses a DHT22 tempe
 
 ## How to Run (Wokwi)
 
-You can simulate the full setup using [Wokwi](https://wokwi.com/). Just open the project, run it, and adjust the temperature slider to see how the system reacts.
+You can simulate the full setup using [Wokwi](https://wokwi.com/projects/438096287319280641). Just open the project, run it, and adjust the temperature slider to see how the system reacts.
 
 ## Future Ideas
 
